@@ -5,7 +5,7 @@
    * [HippoCanon](#HippoCanon)
    * [solidity projects](#solidity-projects)
    * [dApps](#dApps)
-   * [Graph](#Graph) 
+   * [Wishlist](#Wishlist) 
 
 ### About Me
 
