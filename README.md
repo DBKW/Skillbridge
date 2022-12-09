@@ -35,4 +35,5 @@ Today I am transitioning out of the US Army through the skillbridge program via 
    * Intellectual Property Smart Contracts
    * Copyright Smart Contracts 
    * Smart Contracts & NFTs for Geochaching. 
+   * Index & Curate on The Graph Network 
 
